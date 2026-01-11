@@ -1,0 +1,11 @@
+title: 朱子赫的技术博客
+email: zzhzzh141105@outlook.com
+description: >-
+  这是朱子赫的技术博客
+baseurl: "" 
+url: "https://happy025-dev-dev.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+
+github_username: happy025-dev-dev
